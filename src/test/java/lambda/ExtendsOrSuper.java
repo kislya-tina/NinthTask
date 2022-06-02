@@ -29,7 +29,6 @@ public class ExtendsOrSuper {
      */
     @Test
     public void studentsTest(){
-
         List<? extends Human> listExt = new ArrayList<>();
 //        Collections.addAll(listExt, student, student2);
 //        Student != ? extends Human;
